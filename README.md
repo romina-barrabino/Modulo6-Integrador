@@ -9,10 +9,12 @@ sudo apt update
 sudo apt install espeak )
 
 CODIGO DE CREACIÓN DEL ARCHIVO:
+
 mkdir recordatorio.sh
 nano recordatorio.sh
 
 CODIGO DENTRO DE NANO
+
 #!/bin/bash
 
 while true; do
