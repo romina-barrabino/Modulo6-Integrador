@@ -6,7 +6,7 @@ CODIGO DE INSTALACIÓN (tuve algunos inconvenientes y lo tuve que instalar disti
 sudo dpkg -- configure -a
 sudo apt-get install -f
 sudo apt update
-sudo apt install espeak )
+sudo apt install espeak
 
 CODIGO DE CREACIÓN DEL ARCHIVO:
 
